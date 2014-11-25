@@ -1,0 +1,4 @@
+xCollector
+==========
+
+Collectors generator project
